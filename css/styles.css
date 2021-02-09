@@ -478,6 +478,13 @@ mark,
   object-fit: cover;
 }
 
+.img-massey{
+  width: 40%;
+  height: 10%;
+  object-fit: cover;
+  margin-bottom: 5rem;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -10077,7 +10084,7 @@ p.lead {
 }
 
 section.resume-section {
-  display: flex;
+  /*display: flex;*/
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
