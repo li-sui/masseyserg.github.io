@@ -35,6 +35,12 @@
         $(".navbar-collapse").collapse("hide");
     });
 
+    //tooltip   
+    $(document).ready(function(){
+      $('[data-toggle="tooltip"]').tooltip();   
+    });
+
+
     // Activate scrollspy to add active class to navbar items on scroll
     $("body").scrollspy({
         target: "#sideNav",
