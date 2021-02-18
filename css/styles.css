@@ -484,10 +484,16 @@ mark,
 
 .img-massey{
   width: 40%;
-  
   object-fit: cover;
   margin-bottom: 4rem;
 }
+.img-logo{
+  margin-top: 70px;
+  margin-bottom: 100px;
+  width: 110%;
+  object-fit: cover;
+}
+
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -6084,7 +6090,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #5490f0 !important;
+  background-color: #093b76 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10119,7 +10125,7 @@ section.resume-section .resume-section-content {
 }
 
 #slideshow {
-  margin: 80px auto;
+  left: 150px;
   position: relative;
   width: 600px;
   height: 400px;
