@@ -483,13 +483,12 @@ mark,
 }
 
 .img-massey{
-  width: 40%;
+  width: 100%;
   object-fit: cover;
-  margin-bottom: 4rem;
 }
 .img-logo{
-  margin-top: 70px;
-  margin-bottom: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   width: 110%;
   object-fit: cover;
 }
@@ -6090,7 +6089,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #093b76 !important;
+  background-color: #00558d !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10125,10 +10124,10 @@ section.resume-section .resume-section-content {
 }
 
 #slideshow {
-  left: 150px;
+  left: 120px;
   position: relative;
-  width: 600px;
-  height: 400px;
+  width: 1000px;
+  height:670px;
   padding: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
@@ -10142,7 +10141,7 @@ section.resume-section .resume-section-content {
 }
 
 .img-slidshow{
-  width: 600px;
-  height: 400px;
+  width: 1000px;
+  height: 600px;
   object-fit: cover;
 }
