@@ -1,3 +1,3 @@
 # Massey Software Engineering Research Group
 
-https://li-sui.github.io/masseyserg/
+Live version available here: https://www.massey.ac.nz/~wwseag/
